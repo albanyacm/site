@@ -10,13 +10,16 @@
 <p><a href='http://www.facebook.com/groups/Albany.ACM/'> Friday (10/18) 2:30pm</a><p>
 <div class='box'></div>
 
-<?php echo "PHP works" ?>
+<?php echo "PHP works\n" ?>
 
-<?php echo "David's Edit to the page"
+<?php echo "David's Edit to the page\n"
 
 	/*my dinky little edit*/
 	/*maybe it will get submitted*/
 ?>
+
+<?php $integer = sqrt(15);
+      echo $integer; ?> 
 
 </body>
 
