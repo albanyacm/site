@@ -19,6 +19,8 @@
 	/*maybe it will get submitted*/
 ?>
 
+<?php echo "Christy was here!!! ^_^ <br>" ?>
+
 <?php $integer = sqrt(15);
       echo $integer; ?> 
 
