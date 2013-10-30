@@ -3,6 +3,7 @@
 	<link rel='stylesheet' type='text/css' href='site.css'> 
 </head>
 <body>
+ <?php include('Header.php') ?>
  <h1> SUNY ALBANY ACM coming soon... </h1>
  <div class='clear'></div>
 <p> Those who plan on working on the site I would recommend attend the Github workshop<p>
