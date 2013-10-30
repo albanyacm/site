@@ -10,9 +10,9 @@
 <p><a href='http://www.facebook.com/groups/Albany.ACM/'> Friday (10/18) 2:30pm</a><p>
 <div class='box'></div>
 
-<?php echo "PHP works\n" ?>
+<?php echo "PHP works<br>" ?>
 
-<?php echo "David's Edit to the page\n"
+<?php echo "David's Edit to the page<br>"
 
 	/*my dinky little edit*/
 	/*maybe it will get submitted*/
