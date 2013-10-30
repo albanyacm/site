@@ -12,6 +12,12 @@
 
 <?php echo "PHP works" ?>
 
+<?php echo "David's Edit to the page"
+
+	/*my dinky little edit*/
+	/*maybe it will get submitted*/
+?>
+
 </body>
 
 </html>
