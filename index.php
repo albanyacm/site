@@ -15,6 +15,8 @@
 
 <?php echo "David's Edit to the page<br>"
 
+<?php echo "Jake was here!! and this smiley beats Christy's: (<>_<>)<br>"
+
 	/*my dinky little edit*/
 	/*maybe it will get submitted*/
 ?>
