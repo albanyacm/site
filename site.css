@@ -1,0 +1,9 @@
+.clear{
+	clear:both;
+
+}
+div.box{
+	width:100%;
+	background-color:blue; 
+	border-style:solid;
+}
