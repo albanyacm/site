@@ -13,7 +13,7 @@
 			
 		<div id='header' style='background-color:#2E9AFE; margin:-10; overflow:hidden;' >
 			<div id='title' style='color:#fff;margin-left:5; float:left;' ><h2><tt>UAlbany ACM</tt></h2></div>
-			<div><img src='pldi2013.ucombinator.org/images/acm.png' style='margin-top:15;max-width:30px; max-height:30px;float:right;margin-right: 50%;'></div>
+			<div><img src='http://pldi2013.ucombinator.org/images/acm.png' style='margin-top:15;max-width:30px; max-height:30px;float:right;margin-right: 50%;'></div>
 		</div><!-- The block of the header that will be visible-->
 		<div style='clear:both;' ></div>
 
