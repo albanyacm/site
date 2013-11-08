@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> UAlbany ACM </title>
+	<link rel="stylesheet" type="text/css" href="frame.css"/>
+	</head>
+
+	<body>
+	
+	<div id="container">
+	
+		<div id="logo">
+		<a href="frame.html">
+		<img src="acm.jpg">
+		<a>
+		</div>
+
+		<div id="header">
+		<h1>Association of Computer Machinery</h1>
+		</div>
+		
+		<div id="links">
+		<br>
+		<b>Links</b>
+		<br>
+		<br>
+		<a href="ACM.html">Home</a>
+		<br>
+		<br>
+		<a href="roster.html">Roster</a>
+		<br>
+		<br>
+		<a href="calender.html">Event dates</a>
+		<br>
+		<br>
+		<br>
+		</div>
+
+		<div id="content">
+		<h1> Goals.......</h1>
+		<p> Write stuff in here .....</p>
+		</div>
+
+		<div id="footer">
+		Used html and css to make this. content by ACM.
+		</div>
+	</div>
+	
+	</body>
+
+</html>
