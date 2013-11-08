@@ -1,0 +1,19 @@
+#container {height:100%; width:100%; margin-left:auto; margin-right:auto;}
+
+#logo	   {float:left;height:155px;width:170px;}
+
+#header    {border-style:outset; border-color:Blue; background-color:#0099FF; margin-left:170px; height:155px; text-align:center;}
+
+h1	   {margin-bottom:0; text-align:center;}
+
+#links	   {border-style:outset; border-color:Blue; background-color:#0099FF; height:800px; width:165px; float:left;}
+
+#content   {background-color: White; height:800px;}
+
+#footer    {background-color:Blue; clear:both; text-align:center;}
+
+p	   {text-align:center;}
+
+ul	   {text-align:center;}
+
+ol	   {text-align:center;}
