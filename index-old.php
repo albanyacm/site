@@ -13,7 +13,7 @@
 
 <?php echo "PHP works<br>" ?>
 
-<?php echo "David's Edit to the page<br>"
+<?php echo "David's Edit to the page<br>" ?>
 
 <?php echo "Jake was here!! and this smiley beats Christy's: (<>_<>)<br>"
 
