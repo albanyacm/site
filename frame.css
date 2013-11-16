@@ -17,3 +17,6 @@ p	   {text-align:center;}
 ul	   {text-align:center;}
 
 ol	   {text-align:center;}
+#container #content iframe {
+	text-align: center;
+}
